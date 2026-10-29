@@ -17,6 +17,9 @@
   <author email="michael@openrobotics.org">Michael Carroll</author>
   <author>Mikael Arguedas</author>
 
+  <build_depend>python3-editables</build_depend>
+  <build_depend>python3-hatchling</build_depend>
+
   <exec_depend>ament_index_python</exec_depend>
   <exec_depend>example_interfaces</exec_depend>
   <exec_depend>rclpy</exec_depend>
